@@ -1,0 +1,206 @@
+#EXTM3U
+# Streams URLs borrowed from page source : https://ukr.radio/maps
+# Edited on Xed, SMPlay and VLC on Linux Mint
+# By @geospart [part of a way larger project but figured some may like this now]
+# https://mastodon.social/@geospart
+# Apologies for any issues I have dyslexia but I did proof it a ton.
+# Note: Opening this in VLC may edit the descriptions when clicking to play a station.
+# created 06/23/2024
+#EXTINF:4.77867,країнське радіo / Krajinske Radio [ur1-aac-46k]
+http://radio.ukr.radio:8000/ur1-aacplus-l
+#EXTINF:3.392,країнське радіo / Krajinske Radio [ur1-aac-16k]
+http://radio.ukr.radio:8000/ur1-aacp-ulow
+#EXTINF:1.032,країнське радіo / Krajinske [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-mp3
+#EXTINF:1.632,країнське радіo / Krajinske Radio [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-mp3-m
+#EXTINF:1.10933,Українське радіо. Голос Києва / Ukrainian Radio. Voice of Kyiv [ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-kyiv-aacplus-l
+#EXTINF:1.368,Українське радіо. Голос Києва / Ukrainian Radio. Voice of Kyiv [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-kyiv-mp3
+#EXTINF:1.32,Українське радіо. Голос Києва / Ukrainian Radio. Voice of Kyiv [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-kyiv-mp3-m
+#EXTINF:1.10933,Українське радіо. Крим / Ukrainian Radio. Crimea [ur1-aac-47k]
+http://radio.ukr.radio:8000/ur1-cr-aacplus-l
+#EXTINF:1.368,Українське радіо. Крим / Ukrainian Radio. Crimea [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-cr-mp3
+#EXTINF:1.896,Українське радіо. Крим / Ukrainian Radio. Crimea [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-cr-mp3-m
+#EXTINF:1.32267,Українське радіо. Вінниця / Ukrainian Radio. Vinnytsia [ur1-aac-47k]
+http://radio.ukr.radio:8000/ur1-vn-aacplus
+#EXTINF:1.128,Українське радіо. Вінниця / Ukrainian Radio. Vinnytsia [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-vn-mp3
+#EXTINF:1.752,Українське радіо. Вінниця / Ukrainian Radio. Vinnytsia [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-vn-mp3-m
+#EXTINF:1.10933,Українське радіо. Дніпро / Ukrainian Radio. Dnipro [ur1-aac-49k]
+http://radio.ukr.radio:8000/ur1-dp-aacplus
+#EXTINF:1,Українське радіо. Дніпро / Ukrainian Radio. Dnipro [ur1-mp3-192]
+http://radio.ukr.radio:8000/ur1-dp-mp3
+#EXTINF:1.368,Українське радіо. Дніпро / Ukrainian Radio. Dnipro [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-dp-mp3-m
+#EXTINF:1.10933,Українське радіо. Дніпро (Кривий Ріг) / Ukrainian Radio. Dnipro (Kryvyi Rih)[ur1-aac-49k]
+http://radio.ukr.radio:8000/ur1-krr-aacplus
+#EXTINF:1.296,Українське радіо. Дніпро (Кривий Ріг) / Ukrainian Radio. Dnipro (Kryvyi Rih) [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-krr-mp3
+#EXTINF:1.632,Українське радіо. Дніпро (Кривий Ріг) / Ukrainian Radio. Dnipro (Kryvyi Rih) [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-krr-mp3-m
+#EXTINF:1.04533,Українське радіо. Житомирська хвиля / Ukrainian Radio Zhytomyr Wave [zt-aac-51k]
+http://radio.ukr.radio:8000/ur1-zt-aacplus
+#EXTINF:1.2,Українське радіо. Житомирська хвиля / Ukrainian Radio Zhytomyr Wave [zt-mp3-192k]
+http://radio.ukr.radio:8000/ur1-zt-mp3
+#EXTINF:1.824,Українське радіо. Житомирська хвиля / Ukrainian Radio Zhytomyr Wave [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-zt-mp3-m
+#EXTINF:1.10933,Радіо Житомирська хвиля / Radio Zhytomyr Wave [zwave-aac-48k][Music]
+http://radio.ukr.radio:8000/zwave-aacplus
+#EXTINF:1.296,Радіо Житомирська хвиля / Radio Zhytomyr Wave [zwave-mp3-192k][Music]
+http://radio.ukr.radio:8000/zwave-mp3
+#EXTINF:2.088,Радіо Житомирська хвиля / Radio Zhytomyr Wave [zwave-mp3-128k][Music]
+http://radio.ukr.radio:8000/zwave-mp3-m
+#EXTINF:1.06667,Українське радіо. Запоріжжя  / Ukrainian Radio Zaporozhye [ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-zp-aacplus
+#EXTINF:1.584,Українське радіо. Запоріжжя / Ukrainian Radio Zaporozhye [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-zp-mp3
+#EXTINF:1.56,Українське радіо. Запоріжжя / Ukrainian Radio Zaporozhye [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-zp-mp3-m
+#EXTINF:1.06667,Українське радіо. Карпати / Ukrainian Radio Zaporozhye Carpathians[ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-if-aacplus
+#EXTINF:1,Українське радіо. Карпати / Ukrainian Radio Zaporozhye Carpathians [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-if-mp3
+#EXTINF:1.824,Українське радіо. Карпати / Ukrainian Radio Zaporozhye Carpathians [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-if-mp3-m
+#EXTINF:1.10933,Українське радіо. Одеса / Ukrainian Radio Odessa[ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-od-aacplus
+#EXTINF:1.152,Українське радіо. Одеса / Ukrainian Radio Odessa [ur1-mp3-129k]
+http://radio.ukr.radio:8000/ur1-od-mp3
+#EXTINF:1.896,Українське радіо. Одеса / Ukrainian Radio Odessa [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-od-mp3-m
+#EXTINF:1.06667,Українське радіо. Кропивницький / Ukrainian Radio Kropyvnytskyi [ur1-aac-47k][when tested has a hum]
+http://radio.ukr.radio:8000/ur1-kr-aacplus
+#EXTINF:1.368,Українське радіо. Кропивницький / Ukrainian Radio Kropyvnytskyih [ur1-mp3-192k][when tested has a hum]
+http://radio.ukr.radio:8000/ur1-kr-mp3
+#EXTINF:1.368,Українське радіо. Кропивницький / Ukrainian Radio Kropyvnytskyi[ur1-mp3-128k][when tested has a hum]
+http://radio.ukr.radio:8000/ur1-kr-mp3-m
+#EXTINF:1.06667,Українське радіо. Поділля-Центр / Ukrainian Radio Podillya-Center [ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-km-aacplus
+#EXTINF:1.248,Українське радіо. Поділля-Центр / Ukrainian Radio Podillya-Center [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-km-mp3
+#EXTINF:1.896,Українське радіо. Поділля-Центр / Ukrainian Radio Podillya-Center [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-km-mp3-m
+#EXTINF:1.06667,Українське радіo Голос Донбасу / Ukranian Radio Voice of Donbas [golosdonbasu-aac-48k]
+http://radio.ukr.radio:8000/golosdonbasu-aacplus
+#EXTINF:1.296,Українське радіo Голос Донбасу / Ukranian Radio Voice of Donbas [golosdonbasu-mp3-192k]
+http://radio.ukr.radio:8000/golosdonbasu-mp3
+#EXTINF:1.56,Українське радіo Голос Донбасу / Ukranian Radio Voice of Donbas [golosdonbasu-mp3-128k]
+http://radio.ukr.radio:8000/golosdonbasu-mp3-m
+#EXTINF:1.06667,Українське радіо. Львів / Ukranian Radio Lviv [ur1-aac-49k]
+http://radio.ukr.radio:8000/ur1-lv-aacplus
+#EXTINF:1.296,Українське радіо. Львів / Ukranian Radio Lviv [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-lv-mp3
+#EXTINF:1.56,Українське радіо. Львів / Ukranian Radio Lviv [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-lv-mp3-m
+#EXTINF:1.10933,Українське радіо. Луцьк / Ukranian Radio Lutsk[ur1-aac-51k]
+http://radio.ukr.radio:8000/ur1-vo-aacplus
+#EXTINF:1.248,Українське радіо. Луцьк / Ukranian Radio Lutsk [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-vo-mp3
+#EXTINF:1.368,Українське радіо. Луцьк / Ukranian Radio Lutsk [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-vo-mp3-m
+#EXTINF:1.06812,Українське радіо. Лтава / Ukranian Radio Ltava [ur1-aac][49k]
+http://radio.ukr.radio:8000/ur1-pl-aacplus
+#EXTINF:1.20163,Українське радіо. Лтава / Ukranian Radio Ltava [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-pl-mp3
+#EXTINF:2.01143,Українське радіо. Лтава / Ukranian Radio Ltava [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-pl-mp3-m
+#EXTINF:1.06667,Українське радіо. Миколаїв / Ukranian Radio Mykolaiv [ur1-aac-47k]
+http://radio.ukr.radio:8000/ur1-mk-aacplus
+#EXTINF:1.368,Українське радіо. Миколаїв / Ukranian Radio Mykolaiv [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-mk-mp3
+#EXTINF:1.368,Українське радіо. Миколаїв / Ukranian Radio Mykolaiv [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-mk-mp3-m
+#EXTINF:1.06667,Українське радіо. Рівне  /  Ukranian Radio Rivne[ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-rv-aacplus
+#EXTINF:1.2,Українське радіо. Рівне  /  Ukranian Radio Rivne [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-rv-mp3
+#EXTINF:1.896,Українське радіо. Рівне  /  Ukranian Radio Rivne [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-rv-mp3-m
+#EXTINF:1.06667,Українське радіо. Суми  /  Ukranian Radio Amount [ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-sm-aacplus
+#EXTINF:1.032,Українське радіо. Суми  /  Ukranian Radio Amount [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-sm-mp3
+#EXTINF:1,Українське радіо. Суми  /  Ukranian Radio Amount [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-sm-mp3-m
+#EXTINF:1.10933,Українське радіо. Тернопіль / Ukranian Radio Ternopil [ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-te-aacplus
+#EXTINF:1,Українське радіо. Тернопіль / Ukranian Radio Ternopil [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-te-mp3
+#EXTINF:1.56,Українське радіо. Тернопіль / Ukranian Radio Ternopil [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-te-mp3-m
+#EXTINF:1.49333,Українське радіо. Харків / Ukrainian Radio. Kharkiv[ur1-aac-50k]
+http://radio.ukr.radio:8000/ur1-kh-aacplus
+#EXTINF:1.128,Українське радіо. Харків / Ukrainian Radio. Kharkiv [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-kh-mp3
+#EXTINF:1.56,Українське радіо. Харків / Ukrainian Radio. Kharkiv [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-kh-mp3-m
+#EXTINF:1,Українське радіо. Херсон / Ukrainian Radio. Kherson [ur1-aac][*][offline when tested]
+http://radio.ukr.radio:8000/ur1-ks-aacplus
+#EXTINF:1,Українське радіо. Херсон / Ukrainian Radio. Kherson [ur1-mp3][*][offline when tested]
+http://radio.ukr.radio:8000/ur1-ks-mp3
+#EXTINF:1,Українське радіо. Херсон / Ukrainian Radio. Kherson [ur1-mp3][*][offline when tested]
+http://radio.ukr.radio:8000/ur1-ks-mp3-m
+#EXTINF:1.06667,Українське радіо. Чернівці / Ukrainian Radio. Chernivtsi [ur1-aac]
+http://radio.ukr.radio:8000/ur1-cv-aacplus
+#EXTINF:1.032,Українське радіо. Чернівці / Ukrainian Radio. Chernivtsi [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-cv-mp3
+#EXTINF:1.824,Українське радіо. Чернівці / Ukrainian Radio. Chernivtsi [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-cv-mp3-m
+#EXTINF:1.06812,Українське радіо. Чернігівська хвиля / Ukrainian Radio. Chernihiv Wave  [ur1-aac-50k]
+http://radio.ukr.radio:8000/ur1-cn-aacplus
+#EXTINF:1,Українське радіо. Чернігівська хвиля / Ukrainian Radio. Chernihiv Wave [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-cn-mp3
+#EXTINF:1.7502,Українське радіо. Чернігівська хвиля / Ukrainian Radio. Chernihiv Wave [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-cn-mp3-m
+#EXTINF:1.56,Українське радіо. Рось / Ukrainian Radio. Ros [ur1-aac-128k]
+http://radio.ukr.radio:8000/ur1-ck-aacplus
+#EXTINF:1.632,Українське радіо. Рось / Ukrainian Radio. Ros [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-ck-mp3
+#EXTINF:2.088,Українське радіо. Рось / Ukrainian Radio. Ros [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-ck-mp3-m
+#EXTINF:1.11456,Українське радіо. Ужгород / Ukrainian Radio. Uzhhorod [ur1-aac-48k]
+http://radio.ukr.radio:8000/ur1-uz-aacplus
+#EXTINF:1.01878,Українське радіо. Ужгород / Ukrainian Radio. Uzhhorod [ur1-mp3-192k]
+http://radio.ukr.radio:8000/ur1-uz-mp3
+#EXTINF:2.06367,Українське радіо. Ужгород / Ukrainian Radio. Uzhhorod [ur1-mp3-128k]
+http://radio.ukr.radio:8000/ur1-uz-mp3-m
+#EXTINF:1.06812,Тиса-FM / Tisza-FM  tysafm-aacplus [tysafm-aac-48k][Music]
+http://radio.ukr.radio:8000/tysafm-aacplus
+#EXTINF:1.01878,Тиса-FM / Tisza-FM  tysafm-mp3 [tysafm-mp3-192k][Music]
+http://radio.ukr.radio:8000/tysafm-mp3
+#EXTINF:1.93306,Тиса-FM / Tisza-FM [tysafm-mp3-128k][Music]
+http://radio.ukr.radio:8000/tysafm-mp3-m
+#EXTINF:1.10933,Радіо Промінь / Radio Promin [ur2-aac][48k][Music]
+http://radio.ukr.radio:8000/ur2-aacplus-l
+#EXTINF:3.392,Радіо Промінь / Radio Promin [ur2-aac-18k][Music]
+http://radio.ukr.radio:8000/ur2-aacp-ulow
+#EXTINF:1.296,Радіо Промінь / Radio Promin [ur2-mp3-192k][Music]
+http://radio.ukr.radio:8000/ur2-mp3
+#EXTINF:1.896,Радіо Промінь / Radio Promin [ur2-mp3-128k][Music]
+http://radio.ukr.radio:8000/ur2-mp3-m
+#EXTINF:1.10933,Радіо Культура / Radio Culture [ur3-aac-48k]
+http://radio.ukr.radio:8000/ur3-aacplus-l
+#EXTINF:3.456,Радіо Культура / Radio Culture [ur3-aac-15k]
+http://radio.ukr.radio:8000/ur3-aacp-ulow
+#EXTINF:1.2,Радіо Культура / Radio Culture [ur3-mp3-192k]
+http://radio.ukr.radio:8000/ur3-mp3
+#EXTINF:1.44,Радіо Культура / Radio Culture [ur3-mp3-128k]
+http://radio.ukr.radio:8000/ur3-mp3-m
+#EXTINF:1.28,Всесвітня служба радіо / World Radio Service [ur1-aac-48k][SWL-DX]
+http://radio.ukr.radio:8000/rui-aacplus-l
+#EXTINF:3.392,Всесвітня служба радіо / World Radio Service [ur1-aac-16k][SWL-DX]
+http://radio.ukr.radio:8000/rui-aacp-ulow
+#EXTINF:1.248,Всесвітня служба радіо / World Radio Service [ur4-mp3-192k][SWL-DX]
+http://radio.ukr.radio:8000/ur4-mp3
+#EXTINF:1.824,Всесвітня служба радіо / World Radio Service [ur4-mp3-128k][SWL-DX]
+http://radio.ukr.radio:8000/ur4-mp3-m
+#EXTINF:1.632,Радіоточка / Radio Dot [ur5-mp3-192k][Mainly Music]
+https://radio.ukr.radio/ur5-mp3
+#EXTINF:1.88082,Радіоточка / Dot Radio [kazka-mp3-128k][appears to be children stories]
+http://radio.ukr.radio:8000/kazka-mp3
