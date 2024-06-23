@@ -5,3 +5,4 @@ Edited on Xed, SMPlay and VLC on Linux Mint
 https://mastodon.social/@geospart
 Note: Opening this in VLC may edit the descriptions when clicking to play a station.
 created 06/23/2024
+Edit: This m3u file is in Both Ukranian and English.
